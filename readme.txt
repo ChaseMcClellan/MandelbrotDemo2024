@@ -105,6 +105,6 @@ Acknowledgments
 
 Inspired by the mathematical beauty of the Mandelbrot set.
 
-(ReadMe created by Chat-GPT 4o)
+(readme.txt created by Chat-GPT 4o)
 
 Kaitlyn, Chase, Nick
